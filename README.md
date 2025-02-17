@@ -1,6 +1,6 @@
 # A Hybrid Framework of Generative Deep Learning for Antiviral Peptide Discovery
 
-![Abstract Graphic](AVPs_graphic.jpge)
+![Abstract Graphic](AVPs_graphic.jpg)
 
 #### Huynh Anh Duy*, Tarapong Srisongkram** 
 
