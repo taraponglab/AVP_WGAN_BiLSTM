@@ -14,4 +14,4 @@ Source codes and dataset is available in this repository.
 #### Package version
 Rdkit: v.2024.9.4; Scikit-learn: v1.5.2; Tensorflow: v2.17.0; Numpy: v.1.26.4.
 
-MEME (Multiple Em for Motif Elicitation) v5.5.7 
+BioPython: v1.82; MEME (Multiple Em for Motif Elicitation) v5.5.7.
