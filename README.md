@@ -9,6 +9,7 @@
 Department of Health Sciences, College of Natural Sciences. Can Tho University, Vietnam. (huynhanhduy.h@kkumail.com; haduy@ctu.edu.vn)
 
 **Division of Pharmaceutical Chemistry, Faculty of Pharmaceutical Sciences, Khon Kaen University, Thailand. (tarasri@kku.ac.th)
+
 Source codes and dataset is available in this repository.
 
 #### Package version
