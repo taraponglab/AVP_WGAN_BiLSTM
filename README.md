@@ -14,7 +14,7 @@ Source codes and dataset is available in this repository.
 
 + **A publicly accessible web server for AVP and virus-specific prediction is available at: https://avp-predictor.streamlit.app**
 
-+ This article have been published at **Scientific Reports** and can be accessible at URL: https://www.nature.com/articles/s41598-025-11328-9
++ This article have been published at **Scientific Reports** and can be found at URL: https://www.nature.com/articles/s41598-025-11328-9
   
 #### Package version
 Rdkit: v.2024.9.4; Scikit-learn: v1.5.2; Tensorflow: v2.17.0; Numpy: v.1.26.4.
