@@ -12,7 +12,7 @@ Department of Health Sciences, College of Natural Sciences, Can Tho University, 
 
 Source codes and dataset is available in this repository.
 
-This articel have been accepted from **Scientific Reports** and can be accessible at: https://www.nature.com/articles/s41598-025-11328-9
+This article have been accepted from **Scientific Reports** and can be accessible at URL: https://www.nature.com/articles/s41598-025-11328-9
 
 **A publicly accessible web server for AVP and virus-specific prediction is available at: https://avp-predictor.streamlit.app**
 
